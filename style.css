@@ -11,9 +11,9 @@ text-align: center;
     background-image:url(simboloFamilia.\ png.png) ;
 background-repeat: repeat;
 background-attachment: fixed;
-width: 400px;
-height: 300px;
+background-position:center;
 }
+
 .paragrafo
 {
     text-align: center;
