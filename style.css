@@ -5,8 +5,17 @@ text-align: center;
     background-color: blueviolet;
 }
 
+
+.imagem1
+{
+    background-image:url(simboloFamilia.\ png.png) ;
+background-repeat: repeat;
+background-attachment: fixed;
+width: 400px;
+height: 300px;
+}
 .paragrafo
 {
-    text-align: right;
+    text-align: center;
 }
 
