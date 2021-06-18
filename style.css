@@ -1,21 +1,32 @@
-body
+html, body
+{   
+    margin: 0%
+    padding:0%
+}
+head
 {
-text-align: center;
-    color: white;
-    background-color: blueviolet;
+    position: relative;
 }
 
-
-.imagem1
-{
-    background-image:url(simboloFamilia.\ png.png) ;
-background-repeat: repeat;
-background-attachment: fixed;
-background-position:center;
-}
-
-.paragrafo
+.titulo
 {
     text-align: center;
+    color: darkmagenta;
 }
 
+.menu
+{
+    position:absolute    ;
+    
+}
+li
+{
+    
+    color:darkmagenta;
+
+    list-style: none;
+    border: solid, 3px;
+    border-color: darkblue;
+padding: 5px;
+display: inline;
+}
