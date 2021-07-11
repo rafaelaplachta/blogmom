@@ -10,21 +10,27 @@ padding-right: 30%;
 text-align: center;
 }
 #menu{
-justify-content: space-between;
+position: relative;
 
 }
 .item1{
-border-style: double;
-padding: 2%;
+margin-right:85%;
+    border-style: double;
+    border-color: darkmagenta;
+    padding: 3%;
 border-radius: 5%;
 }
 .item2{
+    margin-right:85%;
     border-style: double;
-    padding: 2%;
+    border-color: darkmagenta;
+    padding: 3%;
     border-radius: 5%;
     }
     .item3{
+        margin-right:85%;
         border-style: double;
-        padding: 2%;
+        border-color: darkmagenta;
+        padding: 3%;
         border-radius: 5%;
         }
