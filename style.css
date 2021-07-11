@@ -1,32 +1,30 @@
-html, body
-{   
-    margin: 0%
-    padding:0%
+.kbsa{
+text-align: center;
 }
-head
-{
-    position: relative;
+.kbsa1{
+text-align: center;
 }
+.content{
+padding-left: 30%;
+padding-right: 30%;
+text-align: center;
+}
+#menu{
+justify-content: space-between;
 
-.titulo
-{
-    text-align: center;
-    color: darkmagenta;
 }
-
-.menu
-{
-    position:absolute    ;
-    
+.item1{
+border-style: double;
+padding: 2%;
+border-radius: 5%;
 }
-li
-{
-    
-    color:darkmagenta;
-
-    list-style: none;
-    border: solid, 3px;
-    border-color: darkblue;
-padding: 5px;
-display: inline;
-}
+.item2{
+    border-style: double;
+    padding: 2%;
+    border-radius: 5%;
+    }
+    .item3{
+        border-style: double;
+        padding: 2%;
+        border-radius: 5%;
+        }
